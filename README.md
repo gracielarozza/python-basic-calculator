@@ -29,8 +29,8 @@ Supported operations: addition (+), subtraction (-), multiplication (*), and div
 Results will be shown with a maximum of 5 decimal places
 
 Enter the first number: 1
-Enter the next number: 2
 Which operation would you like to perform? /
+Enter the next number: 2
 Calculate: 1 / 2
 Answer: 0.5
 
